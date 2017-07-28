@@ -8,7 +8,7 @@ If necessary, this can be circumvented in two possible ways:
 
 This project follows the second approach.  
 It is not intended for usage in production environments
-but a proof of concept, maybe as fun stuff.
+but as a proof of concept, maybe as fun stuff.
 
 The idea behind it is teaching the machine
 decimal calculation like human beings learned it at school.
